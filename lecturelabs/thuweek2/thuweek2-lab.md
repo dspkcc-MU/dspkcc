@@ -1,0 +1,1 @@
+https://github.com/ncc220/nccdn6/blob/master/lecture-labs/Thu-week2/Thu-week2-lab.md
