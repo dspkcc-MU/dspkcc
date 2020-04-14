@@ -11,6 +11,6 @@
 
 ### 1 Star Operators ![1 Star Operators]
 ---
-![1 Star Operators](Arknights-Guide/Images/Lancet-2_icon.png "Lancet-2") - **[Lancet-2](https://mrfz.fandom.com/wiki/Lancet-2)**
+![1 Star Operators](/images/Lancet-2_icon.png "Lancet-2") - **[Lancet-2](https://mrfz.fandom.com/wiki/Lancet-2)**
 * Recruitment Tags:
   * Medice, Ranged, Healing, Robot
