@@ -3,7 +3,7 @@
 ## _Operators will be separated by rarity, the tags required to recruit them along with an image will be provided along with a link with more detail on the Operator_
 
 ## Table of Contents
-- ### [1 Star Operators ![1 Star Operators]](#s1--1)
+- ### [1 Star Operators](#s1--1)
 
 <br/><br/>
 ---
