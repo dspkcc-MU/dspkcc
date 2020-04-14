@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - ### [1 Star Operators](#s1--1)
+- ### [2 Star Operators](#s2--1)
 
 <br/><br/>
 ---
@@ -13,4 +14,13 @@
 ---
 ![](Images/Lancet-2_icon.png "Lancet-2") - **[Lancet-2](https://mrfz.fandom.com/wiki/Lancet-2)**
 * Recruitment Tags:
-  * Medice, Ranged, Healing, Robot
+  * Medic, Ranged, Healing, Robot
+
+![](Images/Castle-3_icon.png "Castle-3") - **[Castle-3](https://mrfz.fandom.com/wiki/Castle-3)**
+* Recruitment Tags:
+  * Guard, Melee, Support, Robot
+### 2 Star Operators
+---
+![](Images/12F_icon.png "12F") - **[12F](https://mrfz.fandom.com/wiki/12F)**
+* Recruitment Tags:
+  * Caster, Ranged, Melee
