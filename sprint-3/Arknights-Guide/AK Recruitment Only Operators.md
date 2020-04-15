@@ -21,6 +21,6 @@
   * Guard, Melee, Support, Robot
 ### 2 Star Operators
 ---
-![2-star-operators](Images/12F_icon.png "12F") - **[12F](https://mrfz.fandom.com/wiki/12F)**
+![2 Star Operators](Images/12F_icon.png "12F") - **[12F](https://mrfz.fandom.com/wiki/12F)**
 * Recruitment Tags:
   * Caster, Ranged, Melee
