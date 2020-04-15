@@ -5,10 +5,14 @@
 ## Table of Contents
 - ### [1 Star Operators](#s1--1)
 - ### [2 Star Operators](#s2--1)
+- ### [3 Star Operators](#s3--1)
+- ### [4 Star Operators](#s4--1)
+- ### [5 Star Operators](#s5--1)
 
 ## Changelog (4/14/2020)
 
 - Added Lancet-2, Castle-3, 12F, Noir Corne, Durin, Yato, Rangers, Adnachiel, Estelle, Indra, Vulcan
+
 <br/><br/>
 ---
 <br/><br/>
