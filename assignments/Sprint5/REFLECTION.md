@@ -1,0 +1,18 @@
+Log of thoughts while doing project
+Well from the start I was intimidated a bit because I hadn't taken any web coruses yet and I wasnt able to get my login to run properly in the last project
+Early on I ran into a problem when trying to set up the my Virtualenv and got the error "The path python3 (from --python=python3) does not exist"
+My guess was that I had the location wrong on my Virtualenv but I assumed it would be in the same spot as it was in a previous assignment
+Googling the issue became a pain because of my bad connection out in the country with videos/pages not loading 
+Eventually I got around it typing "virtualenv -p python sprinter5" it seemedstating the python version wasnt reqiured and that the commands were slightly diffrent on windows
+Activating it was also a problem for a bit but reading the bash error it was eeasy to figure aout that it was another windows thing I assume.
+Instead of "source bin/activate" it was "source scripts/activate"
+After installing the requirments I had to stop as my internet took another dive and I couldn't load the google credentials page 
+Had an extra page pop up for credentials where I had to do a Oauth conset, chose external because thats all it would let me do
+After putting in the google ID and echo returned a blank line so I don't know if it went through or not
+For the google secret the command went through immedietly on paste and again echo returned nothing so I can't check there either...maybe this is something with Gitbash?
+Did the commands again and upon pasting into gitbash sometimes it would show what I pasted and excute immedietly and other times it would show me the paste then allow me to press enter
+No idea why it does one or the other the second time I tried to paste in the secret it showed the code and allowed me to press enter but echo still returned nothing
+After some trial and error I went to the sclass slack channel to check if others had any similar problems and I saw that another student got around it by manually putting in the IDs
+So I tired that, echo still didnt return me anything but it got the project to work
+I could now go to the local directory and login with my google account. Still not a good way to get it to work but it works.
+Overall it wasn't too bad besides some window diffrences and extra steps but I got it to work in the end. 
