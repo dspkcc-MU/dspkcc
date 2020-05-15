@@ -1,4 +1,4 @@
-# google sheets API Translator
+# Google Sheets API Translator
 
 Make/have a google account
 
