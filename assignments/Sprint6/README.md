@@ -20,4 +20,4 @@ Run project file and follow prompts
 python sprint6.py
 ```
 
-![](Images/output.jpg "Example Output")
+![](Images/output.JPG "Example Output")
