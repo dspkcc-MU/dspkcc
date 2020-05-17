@@ -1,3 +1,20 @@
+![](Images/fail1.JPG)
+![](Images/fail2.JPG)
+![](Images/fail3.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Assignment 5: Software-Engineering-Testing
 
 [Setup your python virtual environment first.](./venv.md)
