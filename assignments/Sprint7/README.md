@@ -17,7 +17,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 Run project file
 
 ```
-python sprint6.py
+python sprint7.py
 ```
 
 ![](Images/auto.JPG "Auto Output")
