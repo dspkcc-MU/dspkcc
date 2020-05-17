@@ -1,6 +1,21 @@
+#To run my test - pytest 'filename'.py
+Otherwise below are pictures of the test passing or failing
 ![](Images/fail1.JPG)
 ![](Images/fail2.JPG)
 ![](Images/fail3.JPG)
+![](Images/fail4.JPG)
+![](Images/fail5.JPG)
+![](Images/fail6.JPG)
+![](Images/fail7.JPG)
+![](Images/fail8.JPG)
+![](Images/fail9.JPG)
+![](Images/fail10.JPG)
+![](Images/fail11.JPG)
+![](Images/fail12.JPG)
+![](Images/pass1.JPG)
+![](Images/pass1.JPG)
+![](Images/pass1.JPG)
+
 
 
 
